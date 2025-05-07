@@ -1,0 +1,9 @@
+PS D:\gemini voice>  & 'c:\Users\rseth\AppData\Local\Programs\Python\Python312\python.exe' 'c:\Users\rseth\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '57903' '--' 'D:\gemini voice\app1.py'
+Voice Assistant started. Say 'stop'.
+Listening...
+You said: hello
+Gemini: Hello there! How can I help you today?
+
+Listening...
+You said: ok stop
+thank you!

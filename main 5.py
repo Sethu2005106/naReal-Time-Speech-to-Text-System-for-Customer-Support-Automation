@@ -3,7 +3,7 @@ import google.generativeai as genai
 import os
 
 recognizer = sr.Recognizer()
-API_KEY = 'AIzaSyDFF0qlHYRFm0U9wKX5iLfuuMKfnvTw1Qs' 
+API_KEY = 'YOUR API KEY' 
 genai.configure(api_key=API_KEY)
 
 def capture_voice_input():
